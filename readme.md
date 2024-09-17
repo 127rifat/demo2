@@ -6,4 +6,4 @@ some text
 
 local development
 
-1. I am seeign how branching in git works.
+1. I am seeing how branching in git works.
